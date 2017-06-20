@@ -1,0 +1,6 @@
+﻿  atmFunctions.cpp
+c:\users\facecake\documents\visual studio 2017\projects\atm\atm\atmfunctions.cpp(236): warning C4551: function call missing argument list
+  Source1clone.cpp
+  Generating Code...
+  ATM.vcxproj -> C:\Users\facecake\documents\visual studio 2017\Projects\ATM\Debug\ATM.exe
+  ATM.vcxproj -> C:\Users\facecake\documents\visual studio 2017\Projects\ATM\Debug\ATM.pdb (Partial PDB)
